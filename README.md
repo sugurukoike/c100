@@ -1,7 +1,7 @@
 # c100
 
 # OverView
-「基礎プロⅠ 100本ノック」について、自分の解答を上げていきます。
+「基礎プロⅠ 100本ノック」の自分の解答を上げます。
 <http://www.cc.kyoto-su.ac.jp/~mmina/bp1/hundredKnocks.html>
 
 # Requirement
