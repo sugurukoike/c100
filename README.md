@@ -9,7 +9,7 @@ C言語の実行環境
 
 # Usage
 ```bash
-git clone https://github.com/sugurukoike/c100.git
+git clone https://github.com/suuu0122/c100.git
 cd c100
 ./knock[no]
 ```
